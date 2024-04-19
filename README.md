@@ -6,7 +6,6 @@ I'm Saketha, a Dental surgeon turned Medical Informatics student at Michigan Tec
 - 👯 I’m looking to collaborate on projects related to healthcare informatics, Python programming, and innovative healthcare technologies.
 - 🤔 I’m looking for help with diving deeper into advanced Python concepts and exploring ways to apply them in healthcare informatics projects.
 - 💬 Ask me about my journey from dental surgery to medical informatics, my experiences in healthcare, or anything related to technology and healthcare.
-- 📫 How to reach me:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm an avid movie buff and enjoy swimming in my free time and love collaborating with people
 
