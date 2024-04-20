@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there! 👋
+
 I'm Saketha, a Dental surgeon turned Medical Informatics student at Michigan Tech. Passionate about healthcare innovation and leveraging technology for better patient outcomes. Python enthusiast and eager to collaborate on projects at the intersection of healthcare and technology. Feel free to reach out and connect! 🚀💡🩺
 
 - 🔭 I’m currently working on completing my Masters in Medical Informatics at Michigan Tech, focusing on leveraging technology for improving healthcare outcomes.
@@ -11,16 +12,12 @@ I'm Saketha, a Dental surgeon turned Medical Informatics student at Michigan Tec
 
 ### Projects:
 
-1. [Informatics in Emerging and Reemerging Infectious Disease](https://github.com/sakethakusu/informatics-in-emerging-and-reemerging-infectious-disease) - This project explores the role of informatics in understanding and combating emerging and reemerging infectious diseases. 🦠💻
+#### 1. Informatics in Emerging and Reemerging Infectious Disease
+- [Project Link](https://github.com/sakethakusu/informatics-in-emerging-and-reemerging-infectious-disease)
+- **Description**: This project explores the role of informatics in understanding and combating emerging and reemerging infectious diseases.
+- **Technical Skills**: Data analysis, Literature review, Case study analysis
 
-Technical skills:
-Data analysis
-Literature review
-Case study analysis
-
-2. [Public Health Disease Surveillance Architecture Development](https://github.com/sakethakusu/Public-Health-Disease-SUrveillance-Architecture-Development) - Developing architecture for public health disease surveillance to enhance early detection and response capabilities. 📊🔍
-Technical skills:
-Virtualization (VMware)
-RESTful API development
-Docker containerization
-Networking configuration
+#### 2. Public Health Disease Surveillance Architecture Development
+- [Project Link](https://github.com/sakethakusu/Public-Health-Disease-SUrveillance-Architecture-Development)
+- **Description**: Developing architecture for public health disease surveillance to enhance early detection and response capabilities.
+- **Technical Skills**: Virtualization (VMware), RESTful API development, Docker containerization, Networking configuration
