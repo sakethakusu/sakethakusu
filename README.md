@@ -18,4 +18,5 @@ Virtualization (VMware)
 RESTful API development
 Docker containerization
 Networking configuration
-3. [Public Health Disease Surveillance Architecture Development](https://github.com/sakethakusu/Public-Health-Disease-SUrveillance-Architecture-Development) - Developing architecture for public health disease surveillance to enhance early detection and response capabilities. 📊🔍
+2. [Public Health Disease Surveillance Architecture Development](https://github.com/sakethakusu/Public-Health-Disease-SUrveillance-Architecture-Development) - Developing architecture for public health disease surveillance to enhance early detection and response capabilities. 📊🔍
+Technical skills:
