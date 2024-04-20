@@ -14,6 +14,9 @@ I'm Saketha, a Dental surgeon turned Medical Informatics student at Michigan Tec
 1. [Informatics in Emerging and Reemerging Infectious Disease](https://github.com/sakethakusu/informatics-in-emerging-and-reemerging-infectious-disease) - This project explores the role of informatics in understanding and combating emerging and reemerging infectious diseases. 🦠💻
 
 Technical skills:
+Data analysis
+Literature review
+Case study analysis
 
 2. [Public Health Disease Surveillance Architecture Development](https://github.com/sakethakusu/Public-Health-Disease-SUrveillance-Architecture-Development) - Developing architecture for public health disease surveillance to enhance early detection and response capabilities. 📊🔍
 Technical skills:
